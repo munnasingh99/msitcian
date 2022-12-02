@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msitcian
+- 👋 Hi, I’m Munna Prithvinath Singh 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning feature engineering,machine learning and data mining
 - 💞️ I’m looking to collaborate on some of the amazing data science projects
